@@ -10,45 +10,12 @@ Table of Contents
 * Overview
 
 ## ABSTRACT :
-Cardiovascular disease is one of the most heinous diseases, especially the silent
-heart attack, which attacks a person so abruptly that there's no time to get it treated
-and such disease is very difficult to be diagnosed. Various medical data mining and
-machine learning techniques are being implemented to extract the valuable
-information regarding the heart disease prediction. Yet, the accuracy of the desired
-results are not satisfactory. This Model proposes a heart disease prediction system
-using Machine learning techniques. Health care field has a vast amount of data, for
-processing those data certain techniques are used. Data Mining Is one of the
-techniques often used. Heart diseases are the Leading cause of death worldwide.
-This System predicts the arising possibilities of Heart Disease. The datasets used
-are classified in terms of medical parameters. This system evaluates those
-parameters using data mining classification technique. The datasets are processed
-in python programming using five main Machine Learning Algorithms namely
-Decision tree Algorithm and Naive Bayes Algorithm, Linear Regression, Knn
-Algorithm, Artificial Neural Networking which shows the best algorithm among
-these two in terms of accuracy level of heart disease.
+Cardiovascular disease, particularly the silent heart attack, is one of the most dangerous conditions, as it strikes suddenly, leaving little time for treatment and making it highly difficult to diagnose. To improve heart disease prediction, various machine learning and medical data mining techniques have been employed to extract valuable insights, though the accuracy of these methods has yet to meet expectations. This model introduces a heart disease prediction system utilizing machine learning techniques. The healthcare sector generates vast amounts of data, and processing this data requires specialized methods, with data mining being one of the most commonly used techniques. Heart disease remains the leading cause of death globally. This system predicts potential heart disease risks by analyzing medical datasets categorized by specific parameters. These parameters are evaluated through data mining classification techniques. Using Python, the model processes these datasets with five key machine learning algorithms: Decision Tree, Naive Bayes, Linear Regression, K-Nearest Neighbors (KNN), and Artificial Neural Networks. The model ultimately determines which algorithm yields the highest accuracy in predicting heart disease.
 
  ## INTRODUCTION :
- According to the World Health Organisation, every year 12 million deaths
-occur worldwide due to Heart Disease. Heart disease is one of the biggest causes of
-morbidity and mortality among the population of the world. Prediction of
-cardiovascular disease is regarded as one of the most important subjects in the
-section of data analysis. The load of cardiovascular disease is rapidly increasing all
-over the world from the past few years. Many researches have been conducted in
-an attempt to pinpoint the most influential factors of heart disease as well as
-accurately predict the overall risk. Heart Disease is even highlighted as a silent
-killer which leads to the death of the person without obvious symptoms. The early
-diagnosis of heart disease plays a vital role in making decisions on lifestyle
-changes in high-risk patients and in turn reduces the complications.
-Machine learning proves to be effective in assisting in making decisions and
-predictions from the large quantity of data produced by the healthcare industry.
-This project aims to predict future Heart Disease by analysing data of patients
-which classifies whether they have heart disease or not using a machine-learning
-algorithm. Machine Learning techniques can be a boon in this regard. Even though
-heart disease can occur in different forms, there is a common set of core risk
-factors that influence whether someone will ultimately be at risk for heart disease
-or not. By collecting the data from various sources, classifying them under suitable
-headings & finally analysing to extract the desired data we can say that this
-technique can be very well adapted to do the prediction of heart disease
+According to the World Health Organization, heart disease causes approximately 12 million deaths annually worldwide, making it one of the leading contributors to global morbidity and mortality. Predicting cardiovascular disease has become a critical focus in data analysis, as the burden of this disease has been rising rapidly in recent years. Numerous studies have attempted to identify the key risk factors for heart disease and improve the accuracy of predicting overall risk. Often referred to as a "silent killer," heart disease can lead to death without showing obvious symptoms. Early detection is crucial for implementing lifestyle changes in high-risk patients, ultimately reducing complications.
+
+Machine learning has proven to be an effective tool for making predictions and supporting decisions based on the vast amounts of data generated in the healthcare industry. This project aims to predict the likelihood of heart disease in patients by analyzing their data and using machine learning algorithms to classify whether they are at risk. Although heart disease manifests in various forms, a common set of risk factors consistently influences an individual's risk. By collecting data from multiple sources, categorizing it appropriately, and analyzing it to extract meaningful insights, machine learning can play a vital role in predicting heart disease and improving early diagnosis.
 
 ## MOTIVATION FOR THE WORK :
 The main motivation of doing this research is to present a heart disease
