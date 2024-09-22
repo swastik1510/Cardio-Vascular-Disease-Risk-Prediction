@@ -64,16 +64,7 @@ evaluation strategies. This will provide researchers and medical practitioners t
 establish a better
 
 # PROBLEM STATEMENT :
-The major challenge in heart disease is its detection. There are instruments
-available which can predict heart disease but either they are expensive or are not
-efficient to calculate the chance of heart disease in humans. Early detection of
-cardiac diseases can decrease the mortality rate and overall complications.
-However, it is not possible to monitor patients everyday in all cases accurately and
-consultation of a patient for 24 hours by a doctor is not available since it requires
-more patience, time and expertise. Since we have a good amount of data in today’s
-world, we can use various machine learning algorithms to analyse the data for
-hidden patterns. The hidden patterns can be used for health diagnosis in medicinal
-data.
+Detecting heart disease presents a significant challenge, as current diagnostic tools are either too costly or insufficiently effective at accurately predicting the likelihood of heart disease in individuals. Early identification is crucial in reducing mortality rates and minimizing complications. However, consistently monitoring patients is not feasible, as it demands substantial time, effort, and expertise from healthcare professionals, making round-the-clock consultation impractical. In today’s data-driven world, machine learning algorithms provide a viable alternative. By analyzing large datasets, these algorithms can uncover hidden patterns, offering valuable insights for medical diagnoses and improving the accuracy of heart disease predictions.
 
 
 ## Built With :
